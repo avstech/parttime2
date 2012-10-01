@@ -1,0 +1,35 @@
+@CHARSET "ISO-8859-1";
+
+#nav-search {
+    height: 6em;
+    margin: 0 auto;
+    width: 94%;
+}
+#nav {
+    float: left;
+    height: 100%;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+#nav-search form {
+    background: none repeat scroll 0 0 #FFFFFF;
+    float: right;
+    margin: 1.5em 0 0;
+    padding: 0.5em;
+    width: 200px;
+}
+#nav-search form #q {
+    background: url("img/search_bg.jpg") no-repeat scroll 0 0 transparent;
+    border: medium none;
+    color: #FFFFFF;
+    padding: 4px;
+    width: 156px;
+}
+#sample1{
+    background: none repeat scroll 0 0;
+    float: right;
+    margin: 1.5em 0 0;
+    padding: 0.5em;
+    width: 100%;
+}

@@ -1,0 +1,63 @@
+@CHARSET "ISO-8859-1";
+
+.navbar{
+	font-size: 18px;
+	color: white;
+}
+
+.checkbox{
+	color: white;
+}
+
+.well{
+	padding:0px;
+	background-color:#CD5C5C;
+}
+
+.img
+{
+ background-image:url('../img/vlogo.png'); 	
+}
+
+.ImageLogo
+{
+text-indent: 25px; 
+ font-style: oblique; 
+ color: navy; 
+ font-weight: bold; 
+ font-family: arial; 
+ font-size: 28px; 
+ background-image:url('../img/vlogo.png'); 
+ background-repeat: no-repeat; 
+ background-color: white; 
+ height:80px;
+ }
+ 
+.navbar-inner{
+	margin-top: 20px;
+}
+
+.nav{
+	color: red;
+}
+
+.navbar-search {
+    height: 6em;
+}
+
+.alert{
+	background-color: 	#F4A460;
+	color: black;
+}
+
+hr{
+	-moz-border-bottom-colors: black;
+	border-width: 3px 0;
+}
+
+#group{
+	height: 18px;
+    line-height: 25px;
+    vertical-align: bottom;
+}
+
